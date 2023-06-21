@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "phone": "8801234567800",
+      "password": "password123",
+      "name": "John Lime",
+      "email": "john@example.com",
+      "employeeType": "admin"
+    },
+    {
+      "id": 2, 
+      "phone": "8801234567890",
+      "password": "password123",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "employeeType": "customer"
+    }
+  ]

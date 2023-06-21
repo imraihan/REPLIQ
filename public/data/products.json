@@ -1,0 +1,70 @@
+{
+    "products":[
+       {
+          "id":1,
+          "title":"iPhone 9",
+          "description":"An apple mobile which is nothing like apple",
+          "price":549,
+          "discountPercentage":12.96,
+          "rating":4.69,
+          "stock":94,
+          "brand":"Apple",
+          "category":"smartphones"
+       },
+       {
+          "id":2,
+          "title":"Samsung",
+          "description":"This is great phone",
+          "price":499,
+          "discountPercentage":10.96,
+          "rating":4.69,
+          "stock":69,
+          "brand":"Samsung",
+          "category":"smartphones"
+       },
+       {
+         "id":3,
+         "title":"Nokia",
+         "description":"This is great phone",
+         "price":288,
+         "discountPercentage":10,
+         "rating":4.69,
+         "stock":200,
+         "brand":"Nokia",
+         "category":"Button Phone"
+      },
+      {
+         "id":4,
+         "title":"Motorola",
+         "description":"This is great phone",
+         "price":49,
+         "discountPercentage":4.9,
+         "rating":4.69,
+         "stock":56,
+         "brand":"Motorola",
+         "category":"smartphones"
+      },
+      {
+         "id":5,
+         "title":"Mi1",
+         "description":"This is great phone",
+         "price":120,
+         "discountPercentage":3.00,
+         "rating":4.00,
+         "stock":400,
+         "brand":"Huawei",
+         "category":"smartphones"
+      },
+      {
+         "id":6,
+         "title":"Samsung",
+         "description":"This is great phone",
+         "price":499,
+         "discountPercentage":10.96,
+         "rating":4.69,
+         "stock":69,
+         "brand":"Samsung",
+         "category":"smartphones"
+      }
+    ]
+ }

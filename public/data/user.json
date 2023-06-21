@@ -1,0 +1,45 @@
+{
+    "userdata":[
+        {
+        "id": 1,
+        "phone":"01234567823",
+        "password":"123456",
+        "name":"John",
+        "email":"john@gmail.com",
+        "employeeType":"customer"
+        },
+        {
+            "id": 2,
+            "phone":"01234567732",
+            "password":"123456",
+            "name":"Smith",
+            "email":"Smith@gmail.com",
+            "employeeType":"customer"
+            },
+            {
+                "id": 3,
+                "phone":"01234566609",
+                "password":"123456",
+                "name":"Andrew",
+                "email":"Andrew@gmail.com",
+                "employeeType":"customer"
+                },
+                {
+                    "id": 4,
+                    "phone":"01234560090",
+                    "password":"123456",
+                    "name":"Ponting",
+                    "email":"ponting@gmail.com",
+                    "employeeType":"customer"
+                    },
+                    {
+                        "id": 5,
+                        "phone":"01711101010",
+                        "password":"123456",
+                        "name":"Admin",
+                        "email":"admin@gmail.com",
+                        "employeeType":"admin"
+                        }
+       
+    ]
+ }
